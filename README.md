@@ -6,8 +6,8 @@
  - [Installation](#markdown-header-installation)
  - [Specifications](#markdown-header-specifications)
  - [Attributes](#markdown-header-attributes)
- - [Loop API bug](#markdown-header-attributes)
- - [Time tracking](#markdown-header-attributes)
+ - [Loop API bug](#markdown-header-loop-api-bug)
+ - [Time tracking](#markdown-header-time-tracking)
 
 
 

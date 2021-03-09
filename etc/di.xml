@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+	<preference for="Loop\Tracker\Api\TrackingManagementInterface" type="Loop\Tracker\Model\TrackingManagement"/>
+	<preference for="Loop\Tracker\Api\ItemsRepositoryInterface" type="Loop\Tracker\Model\ItemsRepository"/>
+	<preference for="Loop\Tracker\Api\Data\ItemsInterface" type="Loop\Tracker\Model\Data\Items"/>
+	<preference for="Loop\Tracker\Api\Data\ItemsSearchResultsInterface" type="Magento\Framework\Api\SearchResults"/>
+</config>

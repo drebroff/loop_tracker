@@ -1,0 +1,22 @@
+{
+    "name": "loop/module-tracker",
+    "description": "Tracking challenge for Loop",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Dmitrij Rebrov",
+            "email": "dmitrij.rebrov@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Loop\\Tracker\\": ""
+        }
+    }
+}
